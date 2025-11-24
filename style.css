@@ -1,0 +1,197 @@
+.conteiner{
+    width: 1200px;
+    margin: 0px auto;
+    background-color: #011824;
+    color: white;
+}
+
+.navbar{
+    width: 1200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #00111A;
+    align-items: center;
+    gap: 30px;
+}
+
+.navbar-menu{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 30px;
+    padding: 20px;
+}
+
+.logo{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    color: white;
+}
+
+.search-menu input{
+    background-color: #0D1D25;
+    width: 600px;
+    border-radius: 5px;
+    color: #7C7C8A;
+    border: none;
+    padding: 10px;
+}
+
+.btn{
+    background-color: #750310;
+    align-items: center;
+    border: none;
+    text-align: center;
+    display: flex;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.main-foto{
+    margin: 0px auto;
+    padding: 60px;
+    display: flex;
+    
+}
+
+.p{
+    text-align:right;
+}
+
+.img{
+    width: 240px;
+    position: relative;
+    left: 100px;
+    bottom: 50px;
+}
+
+.h1-p{
+    background: linear-gradient(#091E26, #00131C);
+    width: 900px;
+    height: 200px;
+    text-align: right;
+    position: relative;
+    left: -130px;
+    bottom: -50px;
+    color: white;
+    padding: 30px;
+
+
+}
+
+.swiper {
+  width: 430px;
+  height: 300px;
+}
+
+.block{
+    width: 1200px;
+    padding: 30px;
+}
+
+main h1{
+    margin-left: 30px;
+    color: white;
+}
+
+
+
+#swiper{
+    margin-top: 100px;
+}
+
+.swiper{
+    width: 1200px;
+    height: 400px;
+    margin-top: 20px;
+}
+
+.img-p{
+    background-color: #00070A;
+    width: 300px;
+    margin: 0px auto;
+    height: 500px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.h1-p-b{
+    margin: 0px auto;
+    width: 200px;
+}
+
+.h1-p-b button{
+    margin: 0px auto;
+    
+}
+
+.btns{
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.swiper-slide h2, p, h3{
+    text-align: center;
+    
+}
+
+.swiper-slide p{
+    color: #C4C4CC;
+    
+}
+
+.swiper-slide img{
+    margin-left: 20px;
+    
+}
+
+.swiper-slide h3{
+    color: #82F3FF;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+.swiper button{
+    color: white;
+    background-color: #00070A;
+    border: none;
+    font-size: 19px;
+}
+
+.navbar-menu1{
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #00111A;
+    align-items: center;
+    
+
+}
+
+.btns1{
+    margin-top: 20px;
+}
+
+.h4{
+    margin-left: 70px;
+    font-size: 50px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    background-color: #0c2f3d;
+    padding: 10px;
+    border-radius: 7px;
+}
+
+.main1{
+    display: flex;
+    gap: 30px;
+    padding: 20px;
+}
+
